@@ -2,7 +2,7 @@
 
 In this Jupyter notebook, we explore an automated approach for detecting pneumonia from chest X-ray images using Convolutional Neural Networks (CNNs). Pneumonia, a serious infectious disease affecting the lungs, is a major health threat that can be fatal. It is mainly caused by the bacterium Streptococcus pneumoniae and is a leading cause of death, particularly in India, where it accounts for one in three deaths (Varshni et al., 2019). X-ray imaging is a pivotal tool in diagnosing pneumonia, helping distinguish between bacterial and viral pneumonia.
 
-Our model showcases an impressive ability to discern between healthy and pneumonia-affected lung scans, boasting a 96% accuracy on the training set and an 88% accuracy on the test set. The dataset, drawn from the Kaggle competition repository, comprises a diverse collection of chest X-ray images, including both normal and pneumonia-positive samples.
+Our model showcases an impressive ability to discern between healthy and pneumonia-affected lung scans, boasting a **96% accuracy** on the training set and an **88% accuracy** on the test/validation set. The dataset, drawn from the Kaggle competition repository, comprises a diverse collection of chest X-ray images, including both normal and pneumonia-positive samples.
 
 **Project Scope**
 The project encompasses the development and evaluation of a CNN model tailored for accurate pneumonia detection, with a particular focus on differentiating between healthy and affected lung images.
